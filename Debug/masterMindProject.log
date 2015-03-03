@@ -1,0 +1,17 @@
+﻿Build started 05/01/2015 00:23:51.
+     1>Project "C:\Users\patrick\Documents\Visual Studio 2010\Projects\masterMindProject\masterMindProject\masterMindProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\masterMindProject.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         masterMindProject.vcxproj -> C:\Users\patrick\Documents\Visual Studio 2010\Projects\masterMindProject\Debug\masterMindProject.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\masterMindProject.unsuccessfulbuild".
+         Touching "Debug\masterMindProject.lastbuildstate".
+     1>Done Building Project "C:\Users\patrick\Documents\Visual Studio 2010\Projects\masterMindProject\masterMindProject\masterMindProject.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
